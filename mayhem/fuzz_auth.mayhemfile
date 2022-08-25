@@ -1,0 +1,4 @@
+project: PROJECT
+target: fuzz_auth
+cmds:
+- cmd: /out/fuzz_auth
